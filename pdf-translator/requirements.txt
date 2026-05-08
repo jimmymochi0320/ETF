@@ -1,0 +1,9 @@
+pymupdf
+pillow
+requests
+python-dotenv
+tqdm
+pyinstaller
+pytest
+openai
+deepl
